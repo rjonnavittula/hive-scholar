@@ -1,6 +1,6 @@
-# HIVE Tasks — a self-hosted, Shovel-style study planner brain
+# HIVE Study & Tasks — Self-Hosted Planning and Learning Backend
 
-The planning **brain** for a H.I.V.E. study/productivity stack. Super
+A self-hosted planning, course-management, and retrieval-grounded learning backend in the H.I.V.E. ecosystem. Super
 Productivity (re-skinned with the `ma.` theme) is the **client**; this FastAPI
 service is the **source of record**, the **Cushion engine**, and the
 **Canvas/LMS ingestion** layer.
